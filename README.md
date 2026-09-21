@@ -7,10 +7,13 @@ spin the cube until the smiling face is found
 
 how to run it:
 
-nvm install 16
-nvm use 16
 
 git clone git@github.com:WesternDundrey/fsab-sub.git
+
+nvm install 16
+
+nvm use 16
+
 cd fsab-sub
 
 npm install --legacy-peer-deps
