@@ -10,8 +10,8 @@ how to run it:
 nvm install 16
 nvm use 16
 
-git clone git@github.com:WesternDundrey/fsb-sub.git
-cd fsb-sub
+git clone git@github.com:WesternDundrey/fsab-sub.git
+cd fsab-sub
 
 npm install --legacy-peer-deps
 
